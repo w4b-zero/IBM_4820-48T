@@ -15,9 +15,9 @@
 ## it works :)<br>
 
 <a href="IMG_20230508_190255.jpg"><img src="IMG_20230508_190255.jpg" width="200" height="200"></a>
-<a href="IMG_20230508_190337.jpg"><img src="IMG_20230508_190337.jpg" width="200" height="200>"</a>
-<a href="IMG_20230508_190632.jpg"><img src="IMG_20230508_190632.jpg" width="200" height="200>"</a>
-<a href="IMG_20230508_192803.jpg"><img src="IMG_20230508_192803.jpg" width="200" height="200>"</a><br>
+<a href="IMG_20230508_190337.jpg"><img src="IMG_20230508_190337.jpg" width="200" height="200"></a>
+<a href="IMG_20230508_190632.jpg"><img src="IMG_20230508_190632.jpg" width="200" height="200"></a>
+<a href="IMG_20230508_192803.jpg"><img src="IMG_20230508_192803.jpg" width="200" height="200"></a><br>
 <a href="IMG_20230508_185958.jpg"><img src="IMG_20230508_185958.jpg" width="200" height="200"</a>
 <a href="IMG_20230508_192938.jpg"><img src="IMG_20230508_192938.jpg" width="200" height="200"</a>
 <a href="IMG_20230508_192950.jpg"><img src="IMG_20230508_192950.jpg" width="200" height="200"></a>
