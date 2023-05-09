@@ -1,4 +1,4 @@
-# Infos, Pinouts and Drivers<br>of the Surepoint POS Touch-Monitor 8240-48T
+# Infos, Pinouts and Drivers<br>Surepoint POS Touch-Monitor 8240-48T
 <br>
 
 ## DIY HDMI / DVI Adapter<br>
