@@ -1,11 +1,11 @@
-## First Version of my DIY HDMI Adapter<br>
+## First Test-Version of my DIY HDMI Adapter<br>
 
 <a href="IMG_20230508_184832.jpg"><img src="IMG_20230508_184832.jpg" width="200"></a>
 <a href="IMG_20230508_184930.jpg"><img src="IMG_20230508_184930.jpg" width="200"></a>
 <a href="IMG_20230508_184952.jpg"><img src="IMG_20230508_184952.jpg" width="200"></a>
 <a href="IMG_20230508_184749.jpg"><img src="IMG_20230508_184749.jpg" width="200"></a><br>
 
-## First Version of my DIY USB Adapter<br>
+## First Test-Version of my DIY USB Adapter<br>
 
 <a href="IMG_20230508_185057.jpg"><img src="IMG_20230508_185057.jpg" width="200"></a>
 <a href="IMG_20230508_185119.jpg"><img src="IMG_20230508_185119.jpg" width="200"></a>
