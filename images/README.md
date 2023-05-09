@@ -1,9 +1,9 @@
 ## First Test-Version of my DIY HDMI Adapter<br>
 
-<a href="IMG_20230508_184832.jpg"><img src="IMG_20230508_184832.jpg" width="200" height="200"></a>"></a>
-<a href="IMG_20230508_184930.jpg"><img src="IMG_20230508_184930.jpg" width="200" height="200"></a>"></a>
-<a href="IMG_20230508_184952.jpg"><img src="IMG_20230508_184952.jpg" width="200" height="200"></a>"></a>
-<a href="IMG_20230508_184749.jpg"><img src="IMG_20230508_184749.jpg" width="200" height="200"></a>"></a><br>
+<a href="IMG_20230508_184832.jpg"><img src="IMG_20230508_184832.jpg" width="200" height="200"></a></a>
+<a href="IMG_20230508_184930.jpg"><img src="IMG_20230508_184930.jpg" width="200" height="200"></a></a>
+<a href="IMG_20230508_184952.jpg"><img src="IMG_20230508_184952.jpg" width="200" height="200"></a></a>
+<a href="IMG_20230508_184749.jpg"><img src="IMG_20230508_184749.jpg" width="200" height="200"></a><br>
 
 ## First Test-Version of my DIY USB Adapter<br>
 
