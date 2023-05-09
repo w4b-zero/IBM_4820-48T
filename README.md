@@ -9,7 +9,7 @@ DIY USB-Cable<br>
 PDF's From IBM<br>
 <a href="IBM 4820 Planning%2C Installation And Service Manual.pdf">IBM 4820 Planning, Installation And Service Manual.pdf</a><br>
 <a href="IBM 4820 Planning%2C Installation And Service Manual_touch.pdf">IBM 4820 Planning, Installation And Service Manual_touch.pdf</a><br>
-<a href="IBM 4820 System Reference Manual.pdf">IBM 4820 System Reference Manual.pdf</b><br>
+<a href="IBM 4820 System Reference Manual.pdf">IBM 4820 System Reference Manual.pdf</a><br>
 <br>
 Infos of the Display-Protokols DISM, TMDS, LVDS and LDI<br>
 <a href="Digital_Interface_Standards_for_Monitors.pdf">Digital_Interface_Standards_for_Monitors.pdf</a><br>
