@@ -24,4 +24,4 @@
 <a href="IMG_20230508_193001.jpg"><img src="IMG_20230508_193001.jpg" width="200"></a><br>
 <a href="IMG_20230508_193046.jpg"><img src="IMG_20230508_193046.jpg" width="200"></a>
 <br>
-<a href="../"><<<</a>
+<a href="../README.md"><<<</a>
