@@ -13,4 +13,10 @@ PDF's From IBM<br>
 <br>
 Infos of the Display-Protokols DISM, TMDS, LVDS and LDI<br>
 <a href="Digital_Interface_Standards_for_Monitors.pdf">Digital_Interface_Standards_for_Monitors.pdf</a><br>
+<br>
+The latest drivers I found...(from <a href="https://microtouch.com/driver-downloads/">NicroTouch</a>)<br>
+<a href="MT7.14.9.Win32-64.zip">MT7.14.9.Win32-64.zip</a> (MT 7 Software for Windows Vista/Server 2008/7/8/10)<br>
+<a href="MT7.14.4.Linux_.zip">MT7.14.4.Linux_.zip</a> (MT 7 Software for Linux)<br>
+<a href="TouchDriverPatch-ForWin10UpdateIssue.zip">TouchDriverPatch-ForWin10UpdateIssue.zip (Remove xTouch driver on Windows 10)<br>
+<a href="DOS_6.00.07.6509.zip">DOS_6.00.07.6509.zip</a> (Dos)<br>
 
