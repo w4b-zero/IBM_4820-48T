@@ -4,7 +4,7 @@ DIY HDMI / DVI Adapter<br>
 <img src="MDR-HDMI-DVI-Adapter.jpg"><br>
 <br>
 DIY USB-Cable<br>
-<img src="4820-48T_USB_Anschluss.jpg"><br>
+<img src="4820-48T_USB_Anschluss.jpg">
 <br>
 PDF's From IBM<br>
 <a href="IBM 4820 Planning%2C Installation And Service Manual.pdf">IBM 4820 Planning, Installation And Service Manual.pdf</a><br>
